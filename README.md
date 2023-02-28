@@ -3,9 +3,9 @@
  <h2>📚 Centifications:</h2>
 
 - <b>MIT - Applied Data Science </b>
-  - [Data Analysis and Visualization, ML, Practical Data Science, Recommendations Systems, Deep Learning](https://eportfolio.mygreatlearning.com/jacqueline-persha)
-- <b>Dimensionality Reduction Techniques</b>
-  - [Virginia Tech Data Analytics Bootcamp](https://www.parchment.com/u/award/8a86de7003c185dd679ef003d9913557)</b></i>
+  - [Data Analysis and Visualization, Machine Learning, Practical Data Science, Recommendations Systems, Deep Learning](https://eportfolio.mygreatlearning.com/jacqueline-persha)
+- <b>Virginia Tech Data Analytics Bootcamp</b>
+  - [Excel, SQL, Tableau, Python, Data Analytics in AWS](https://www.parchment.com/u/award/8a86de7003c185dd679ef003d9913557)</b></i>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
