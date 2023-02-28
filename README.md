@@ -1,4 +1,11 @@
 <h1>Hi, I'm Jacquie! <br/><a href="https://github.com/Jacquelinepersha">Data Scientist Enthusiast</a>, <a href="https://www.linkedin.com/in/jacqueline-persha/">Industrial Engineer</a>
+  
+ <h2> Centifications:</h2>
+
+- <b>MIT - Applied Data Science </b>
+  - [Data Analysis and Visualization, ML, Practical Data Science, Recommendations Systems, Deep Learning](https://eportfolio.mygreatlearning.com/jacqueline-persha)
+- <b>Dimensionality Reduction Techniques</b>
+  - [Virginia Tech Data Analytics Bootcamp](https://www.parchment.com/u/award/8a86de7003c185dd679ef003d9913557)</b></i>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
