@@ -10,7 +10,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Unsupervised Learning Analysis</b>
-  - [Marketing Campaign Analysis](https://github.com/Jacquelinepersha/Marketing-Campaign-Analysis---Unsupervised-Learning/blob/08986b673e69b33bd5f0281c6a0a1d4784429204/Marketing%20Campaign%20Analysis%20-%20Unsupervised%20Learning_Final%20Notebook_Jacqueline_Persha.ipynb)
+  - [Marketing Campaign Analysis]()
 - <b>Dimensionality Reduction Techniques</b>
   - [PCA and t-SNE Analysis](https://github.com/Jacquelinepersha/PCA_and_tSNE_Auto_Jacqueline-Persha.git)</b></i>
 - <b>Clustering Analysis</b>
