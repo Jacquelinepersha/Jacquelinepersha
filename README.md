@@ -9,12 +9,16 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Unsupervised Learning Analysis</b>
-  - [Marketing Campaign Analysis_Part-1](https://github.com/Jacquelinepersha/Marketing-Campaign-Part-1)
-- <b>Dimensionality Reduction Techniques</b>
-  - [PCA and t-SNE Analysis](https://github.com/Jacquelinepersha/PCA_and_tSNE_Auto_Jacqueline-Persha.git)</b></i>
 - <b>Clustering Analysis</b>
   - [Credit Card - Customer Segmentation](https://github.com/Jacquelinepersha/Unsupervised_Learning_Credit_Card/blob/ce5578a1ef6e09e07f69c1ae94dc665a03913334/Notebook_Unsupervised_Learning_Credit_Card_GitHub.ipynb)
+- <b>Analysis geospatial
+  - [Crime data in Chicago using Python and SQL to identify patterns and trends](https://github.com/Jacquelinepersha/Chicago_Crimes-/blob/main/GitHub_Persha_Chicago_Food.ipynb)
+- <b>Unsupervised Learning Analysis</b>
+  - [Marketing Campaign Analysis](https://github.com/Jacquelinepersha/Marketing-Campaign-Part-1)
+- <b>Dimensionality Reduction Techniques</b>
+  - [PCA and t-SNE Analysis](https://github.com/Jacquelinepersha/PCA_and_tSNE_Auto_Jacqueline-Persha.git)</b></i>
+
+
 
 <h2>📊 Data Visualization in Tableau</h2>
 
