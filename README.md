@@ -1,7 +1,8 @@
 <h1>Hi, I'm Jacquie! <br/><a href="https://github.com/Jacquelinepersha">Data Scientist Enthusiast</a>, <a href="https://www.linkedin.com/in/jacqueline-persha/">Industrial Engineer</a>
   
- <h2>📚 Centifications:</h2>
+ <h2>📚 Education</h2>
 
+- <b>Northwestern University -MSDS </b>
 - <b>MIT - Applied Data Science </b>
   - [Python, Machine Learning, AI, Deep Learning, Neural Networks (ANN, CNN), Recommender Systems](https://eportfolio.mygreatlearning.com/jacqueline-persha)
 - <b>Virginia Tech Data Analytics Bootcamp</b>
@@ -11,7 +12,8 @@
 
 - <b>Clustering Analysis</b>
   - [Credit Card - Customer Segmentation](https://github.com/Jacquelinepersha/Unsupervised_Learning_Credit_Card/blob/ce5578a1ef6e09e07f69c1ae94dc665a03913334/Notebook_Unsupervised_Learning_Credit_Card_GitHub.ipynb)
-- <b>[Project Images-BynaryData-MongoDB](https://github.com/Jacquelinepersha/Converting-Images-in-Binary-Uploas-in-Mongo-Cluster-and-Retrieve/blob/main/Converting_Images_in_Binary_MongoDB_code_.ipynb)
+- <b>Project Images-BynaryData-MongoDB<b/>
+  -[Project Images-BynaryData-MongoDB](https://github.com/Jacquelinepersha/Converting-Images-in-Binary-Uploas-in-Mongo-Cluster-and-Retrieve/blob/main/Converting_Images_in_Binary_MongoDB_code_.ipynb)
   - MongoDB as solution for images in Binary data. The study aims in selection for image operations like loading, retrieval, and clustering.
 - <b>Analysis geospatial
   - [Crime data in Chicago using Python and SQL to identify patterns and trends](https://github.com/Jacquelinepersha/Chicago_Crimes-/blob/main/GitHub_Persha_Chicago_Food.ipynb)
