@@ -32,6 +32,10 @@
 - [Airbnb NY Crime Complaints](https://public.tableau.com/views/AirbnbNYCrimeComplaints/WordCloud12yrs?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Data Breached 2004-2020 Wikipedia](https://public.tableau.com/views/DataBreach2004-2020/DataBreach?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+<h2>🌐 Books:</h2>
+
+- [Designing Data-Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+
 <h2>🌐 Connect with me:</h2>
 
 - [LinkedIn](https://linkedin.com/in/jacqueline-persha)
