@@ -2,7 +2,7 @@
   
  <h2>📚 Education</h2>
 
-- <b>Northwestern University -MSDS </b>
+- <b>Northwestern University -Master in Data Sciencce-2025 </b>
   - [Math for Modelers, Applied Statistics with R, Database Systems, Business Process Analytics, Foundations of Data Engineering, Decision Analytics, Data Governance, Ethics and Law, Practical Machine Learning, Natural Language Porcessing, Artificial Intelligence and Deep Learning, Computer Vision]
 - <b>MIT - Applied Data Science </b>
   - [Python, Machine Learning, AI, Deep Learning, Neural Networks (ANN, CNN), Recommender Systems](https://www.credential.net/a5daef1a-be79-4a76-b9fe-082307b3a4c0#gs.a23sdj)
