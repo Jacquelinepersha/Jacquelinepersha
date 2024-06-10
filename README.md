@@ -3,6 +3,7 @@
  <h2>📚 Education</h2>
 
 - <b>Northwestern University -MSDS </b>
+  - [Math for Modelers, Applied Statistics with R, Database Systems, Business Process Analytics, Foundations of Data Engineering, Decision Analytics, Data Governance, Ethics and Law, Practical Machine Learning, Natural Language Porcessing, Artificial Intelligence and Deep Learning, Computer Vision]
 - <b>MIT - Applied Data Science </b>
   - [Python, Machine Learning, AI, Deep Learning, Neural Networks (ANN, CNN), Recommender Systems](https://eportfolio.mygreatlearning.com/jacqueline-persha)
 - <b>Virginia Tech Data Analytics Bootcamp</b>
