@@ -27,6 +27,7 @@
 
 <h2>📊 Data Visualization in Tableau</h2>
 
+- [Chicago Taxi Covid - Data Viz](https://public.tableau.com/app/profile/jacqueline4374/viz/Chicago_Taxi_Covid_Tableau/Dashboard1)
 - [Super Store Challenge](https://public.tableau.com/views/SuperStoreChallenge/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Space Missions - Women in Space](https://public.tableau.com/views/SpaceMissions_16451169344810/Dash1?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Flights Delay Study](https://public.tableau.com/views/AssessmentTableau_16446150601110/FlightsTable?:language=en-US&:display_count=n&:origin=viz_share_link)
