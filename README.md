@@ -11,6 +11,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Exploratory Analysis</b>
+  - [EDA - House_Prices](https://github.com/Jacquelinepersha/EDA_House_prices)
 - <b>Clustering Analysis</b>
   - [Credit Card - Customer Segmentation](https://github.com/Jacquelinepersha/Unsupervised_Learning_Credit_Card/blob/ce5578a1ef6e09e07f69c1ae94dc665a03913334/Notebook_Unsupervised_Learning_Credit_Card_GitHub.ipynb)
 - <b>Project Images-BynaryData-MongoDB<b/>
