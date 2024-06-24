@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacquie! <br/><a href="https://github.com/Jacquelinepersha">Data Scientist | </a>, <a href="https://www.linkedin.com/in/jacqueline-persha/">Industrial Engineer</a>
+<h1>Hi, I'm Jacquie! <br/><a href="https://github.com/Jacquelinepersha">Data Scientist</a>, <a href="https://www.linkedin.com/in/jacqueline-persha/">Industrial Engineer</a>
   
  <h2>📚 Education</h2>
 
