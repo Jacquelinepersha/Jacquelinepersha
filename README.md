@@ -45,8 +45,8 @@
 
 -Natural Language 
 - [Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781617295447/)
-- [Deep Learning for NPL]([deep_learning_for_nlp.pdf](https://github.com/user-attachments/files/19719584/deep_learning_for_nlp.pdf))
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- [Deep Learning for NPL]([deep_learning_for_nlp.pdf](https://github.com/user-attachments/files/19719584/deep_learning_for_nlp.pdf))
 
 -Practical Machine LLearning
 - [Applications of Topic Models. Boyd-Graber, J., Hu, Y., and Mimno, D. 2017.](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
