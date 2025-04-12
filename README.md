@@ -39,6 +39,7 @@
 <h2>🌐 Books:</h2>
 
 - [Designing Data-Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+- [Speech and Language Processing] (https://web.stanford.edu/~jurafsky/slp3/)
 
 <h2>🌐 Connect with me:</h2>
 
