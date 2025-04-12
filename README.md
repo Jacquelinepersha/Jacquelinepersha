@@ -46,7 +46,8 @@
 - [Müller, A.C. & Guido, S. Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view?pli=1)
 - [Boyd-Graber, J., Hu, Y., and Mimno, D. 2017. Applications of Topic Models](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 - [ESLII. The Elements of Statistical Learning Data Mining, Inference, and Prediction. Hastie](http://www.stat.ucla.edu/~ywu/research/documents/ESLII.pdf)
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Geron)[https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/preface01.html#idm45022196339192]
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Geron](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/preface01.html#idm45022196339192)
+- [Deep Learning. An MIT Press book](https://www.deeplearningbook.org/)
 
 
   
