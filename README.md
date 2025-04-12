@@ -44,6 +44,7 @@
 - [Deep Learning for NPL]([deep_learning_for_nlp.pdf](https://github.com/user-attachments/files/19719584/deep_learning_for_nlp.pdf))
 - [Müller, A.C. & Guido, S. Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view?pli=1)
 - [Boyd-Graber, J., Hu, Y., and Mimno, D. 2017. Applications of Topic Models](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
+- [The Elements of Statistical Learning Data Mining, Inference, and Prediction. Springer Series in Statistics. Trevor Hastie, Robert Tibshirani, Jerome Friedman](http://www.stat.ucla.edu/~ywu/research/documents/ESLII.pdf)
 
 
   
