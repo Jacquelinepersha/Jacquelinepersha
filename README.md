@@ -39,19 +39,25 @@
 
 <h2>🌐 Books:</h2>
 
-- [Designing Data-Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+-Deep Learning & AI
+- [Deep Learning. An MIT Press book](https://www.deeplearningbook.org/)
+- [Deep Learning with Python, Second Edition. Francois Chollet](https://learning.oreilly.com/library/view/deep-learning-with/9781617296864/Text/title.htm)
+
+-Natural Language 
 - [Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781617295447/)
 - [Deep Learning for NPL]([deep_learning_for_nlp.pdf](https://github.com/user-attachments/files/19719584/deep_learning_for_nlp.pdf))
-- [Introduction to Machine Learning with Python. Müller, A.C. & Guido, S.](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view?pli=1)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+
+-Practical Machine LLearning
 - [Applications of Topic Models. Boyd-Graber, J., Hu, Y., and Mimno, D. 2017.](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 - [ESLII. Elements of Statistical Learning Data Mining, Inference, and Prediction. Hastie](http://www.stat.ucla.edu/~ywu/research/documents/ESLII.pdf)
 - [ISLP. Introduction of Statistical Learning. Hastie](file:///Users/jacquieap/Downloads/ISLP_website.pdf)
+- [Introduction to Machine Learning with Python. Müller, A.C. & Guido, S.](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view?pli=1)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Geron](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/preface01.html#idm45022196339192)
-- [Deep Learning. An MIT Press book](https://www.deeplearningbook.org/)
-
-
   
+- [Designing Data-Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+
+
 <h2>🌐 Connect with me:</h2>
 
 - [LinkedIn](https://linkedin.com/in/jacqueline-persha)
