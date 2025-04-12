@@ -42,6 +42,8 @@
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781617295447/)
 - [Deep Learning for NPL]([deep_learning_for_nlp.pdf](https://github.com/user-attachments/files/19719584/deep_learning_for_nlp.pdf))
+- [Müller, A.C. & Guido, S. Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view?pli=1)
+- [Boyd-Graber, J., Hu, Y., and Mimno, D. 2017. Applications of Topic Models](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 
 
   
