@@ -39,8 +39,12 @@
 <h2>🌐 Books:</h2>
 
 - [Designing Data-Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-- [Speech and Language Processing] (https://web.stanford.edu/~jurafsky/slp3/)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- [Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781617295447/)
+- [Deep Learning for NPL]([deep_learning_for_nlp.pdf](https://github.com/user-attachments/files/19719584/deep_learning_for_nlp.pdf))
 
+
+  
 <h2>🌐 Connect with me:</h2>
 
 - [LinkedIn](https://linkedin.com/in/jacqueline-persha)
