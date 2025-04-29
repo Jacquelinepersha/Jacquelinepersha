@@ -42,6 +42,7 @@
 -Deep Learning & AI
 - [Deep Learning. An MIT Press book](https://www.deeplearningbook.org/)
 - [Deep Learning with Python, Second Edition. Francois Chollet](https://learning.oreilly.com/library/view/deep-learning-with/9781617296864/Text/title.htm)
+- [Example](https://colab.research.google.com/drive/1dpie9TR3JJuWkAlmewROzpKu9VjUImLs?usp=sharing)
 
 -Natural Language 
 - [Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781617295447/)
