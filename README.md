@@ -10,9 +10,10 @@
   - [Excel, SQL, Tableau, Python, Data Analytics in AWS](https://www.parchment.com/u/award/8a86de7003c185dd679ef003d9913557)</b></i>
 
 <h2>👨‍💻 Data Science Projects:</h2>
-- <b>Deep Learning & AI: Built an AI agent with the AG’s News Topic Classification dataset, using CNNs, RNNs, and LSTMs. Optimized model performance via transfer learning and regularization techniques. 
+
+- <b>Deep Learning & AI: Classification dataset, using CNNs, RNNs, and LSTMs. Optimized model performance via transfer learning and regularization techniques. 
   
-- <b>Natural Language Processing (NLP): Developed an intelligent chatbot with end-to-end NLP pipelines using LSTM and transformer models (BERT). Focused on dynamic decision-making and sequence learning.
+- <b>Natural Language Processing (NLP): Text Preprocessing (tokenization, stemming, lemmatization), Feature Extraction (BoW, TF-IDF, Word2Vec, Doc2Vec), Topic Modeling (LDA, BERTopic), Named Entity Recognition, Transformer-based Models (BERT, Hugging Face Transformers).
   
 - <b>Business Intelligence Application: Designed a full-stack BI app with Go, PostgreSQL, and Tableau; deployed on Google Cloud Platform (GCP) with microservices architecture.
   
