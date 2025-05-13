@@ -11,12 +11,19 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 - <b>Deep Learning & AI: Built an AI agent with the AG’s News Topic Classification dataset, using CNNs, RNNs, and LSTMs. Optimized model performance via transfer learning and regularization techniques. 
-- <b>Natural Language Processing (NLP): Developed an intelligent chatbot with end-to-end NLP pipelines using LSTM and transformer models (BERT). Focused on dynamic decision-making and sequence learning. 
-- <b>Business Intelligence Application: Designed a full-stack BI app with Go, PostgreSQL, and Tableau; deployed on Google Cloud Platform (GCP) with microservices architecture. 
-- <b>Customer Segmentation & Clustering: Applied K-Means and hierarchical clustering to segment customers based on behavioral data, enhancing targeted marketing strategies. 
+  
+- <b>Natural Language Processing (NLP): Developed an intelligent chatbot with end-to-end NLP pipelines using LSTM and transformer models (BERT). Focused on dynamic decision-making and sequence learning.
+  
+- <b>Business Intelligence Application: Designed a full-stack BI app with Go, PostgreSQL, and Tableau; deployed on Google Cloud Platform (GCP) with microservices architecture.
+  
+- <b>Customer Segmentation & Clustering: Applied K-Means and hierarchical clustering to segment customers based on behavioral data, enhancing targeted marketing strategies.
+  
 - <b>Data Integration & Analysis: Integrated datasets via VPN/APIs and conducted statistical tests with Python and R (ANOVA, regression, hypothesis testing).
-- <b>Database Benchmarking & Big Data: Evaluated and benchmarked NoSQL and graph databases (MongoDB, Neo4j, Elasticsearch) for performance in large-scale data environments. 
+  
+- <b>Database Benchmarking & Big Data: Evaluated and benchmarked NoSQL and graph databases (MongoDB, Neo4j, Elasticsearch) for performance in large-scale data environments.
+  
 - <b>Predictive Modeling & Machine Learning:  Developed predictive models (Lasso, Ridge, XGBoost) for churn prediction and classification tasks; optimized with GridSearchCV, achieving F1-scores >0.85
+  
 - <b>Process & Data Mining: Used KNIME and Celonis for process mining across retail datasets; insights led to improvement in supply chain throughput and efficiency.
 
 
