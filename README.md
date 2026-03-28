@@ -6,7 +6,7 @@ Industrial Engineer → Data Science (Northwestern, MIT) → Building production
 
 | **AI Job Interview Booster** | Scores resume-to-job match, optimizes resumes, generates cover letters, interview prep — 5 AI tools in one app | Python, Streamlit, OpenAI/Claude API | [Live App](https://jacquelinepersha-ai-jobinterview-booster-app-lxq8z3.streamlit.app/) |
 | **Agentic OS Blueprint** | 7-layer framework for building AI systems that learn, remember, and chain workflows | Claude Code, Prompt Engineering | [PDF Guide](#) |
-| **Business Analytics Agent** | Multi-agent RAG system that answers executive questions from BigQuery/Postgres + Tableau metadata | OpenAI, LangChain, BigQuery, Streamlit | [Repo](#) |
+| **Business Analytics Agent** | AI-powered analytics platform — connect any database, ask questions in natural language, get verified answers with hallucination detection | Python, Streamlit, PostgreSQL, Neo4j, LangChain, RAG, 7 LLM providers | [Repo](#) |
 | **Computer Vision Agent** | Agentic perception stack — YOLOv5/v8 detector → tracker → planner. +12% mAP improvement, deployed on iOS | YOLOv5, YOLOv8, TensorFlow Lite | [Repo](#) |
 
 <h2>🛠️ Tech Stack</h2>
