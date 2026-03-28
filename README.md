@@ -48,6 +48,7 @@ ITIL v4 — Intellectual Point, 2020
 
 <h2>📫 Connect with me</h2>
 
-LinkedIn
+- [LinkedIn](https://linkedin.com/in/jacqueline-persha)
+
 
 
