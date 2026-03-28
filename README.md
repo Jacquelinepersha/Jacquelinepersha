@@ -3,7 +3,7 @@ Data Scientist & AI Engineer — I build AI systems that solve real problems.
 Industrial Engineer → Data Science (Northwestern, MIT) → Building production AI.
 
 <h2>🚀 What I've Built</h2>
-ProjectWhat it doesStackLinkAI Job Interview BoosterScores resume-to-job match, optimizes resumes, generates cover letters, interview prep — 5 AI tools in one appPython, Streamlit, OpenAI/Claude APILive AppAgentic OS Blueprint7-layer framework for building AI systems that learn, remember, and chain workflowsClaude Code, Prompt EngineeringPDF GuideBusiness Analytics AgentMulti-agent RAG system that answers executive questions from BigQuery/Postgres + Tableau metadataOpenAI, LangChain, BigQuery, StreamlitRepoComputer Vision AgentAgentic perception stack — YOLOv5/v8 detector → tracker → planner. +12% mAP improvement, deployed on iOSYOLOv5, YOLOv8, TensorFlow LiteRepo
+Project AI Job Interview BoosterScores resume-to-job match, optimizes resumes, generates cover letters, interview prep — 5 AI tools in one appPython, Streamlit, OpenAI/Claude APILive AppAgentic OS Blueprint7-layer framework for building AI systems that learn, remember, and chain workflowsClaude Code, Prompt EngineeringPDF GuideBusiness Analytics AgentMulti-agent RAG system that answers executive questions from BigQuery/Postgres + Tableau metadataOpenAI, LangChain, BigQuery, StreamlitRepoComputer Vision AgentAgentic perception stack — YOLOv5/v8 detector → tracker → planner. +12% mAP improvement, deployed on iOSYOLOv5, YOLOv8, TensorFlow LiteRepo
 
 <h2>🛠️ Tech Stack</h2>
 ML/AI: PyTorch, TensorFlow, scikit-learn, XGBoost, CNNs, RNNs/LSTMs, Hugging Face Transformers
