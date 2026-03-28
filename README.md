@@ -3,7 +3,7 @@ Data Scientist & AI Engineer — I build AI systems that solve real problems.
 Industrial Engineer → Data Science (Northwestern, MIT) → Building production AI.
 
 <h2>🚀 What I've Built</h2>
-|---------|-------------|-------|------|
+
 | **AI Job Interview Booster** | Scores resume-to-job match, optimizes resumes, generates cover letters, interview prep — 5 AI tools in one app | Python, Streamlit, OpenAI/Claude API | [Live App](https://jacquelinepersha-ai-jobinterview-booster-app-lxq8z3.streamlit.app/) |
 | **Agentic OS Blueprint** | 7-layer framework for building AI systems that learn, remember, and chain workflows | Claude Code, Prompt Engineering | [PDF Guide](#) |
 | **Business Analytics Agent** | Multi-agent RAG system that answers executive questions from BigQuery/Postgres + Tableau metadata | OpenAI, LangChain, BigQuery, Streamlit | [Repo](#) |
