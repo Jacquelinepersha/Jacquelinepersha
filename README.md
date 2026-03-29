@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jacquie! 👋</h1>
 Data Scientist & AI Engineer — I build AI systems that solve real problems.
-Industrial Engineer → Data Science (Northwestern, MIT) → Building production AI.
+Industrial Engineer — Data Science (Northwestern, MIT) — Building production AI.
 
 <h2>🚀 What I've Built</h2>
 
