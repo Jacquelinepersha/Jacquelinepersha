@@ -7,12 +7,6 @@ Industrial Engineer — Data Science (Northwestern, MIT) — Building production
 I ship AI tools that people actually use — not just notebooks. Every project above has either a live demo, a deployed app, or production code you can run today.
 Current focus: LLM-powered applications, prompt-engineered pipelines, and multi-provider AI architectures.
 
-🛠️ Tech I work with
-AI / ML: OpenAI API, Anthropic Claude, LangChain, RAG, YOLOv5/v8, TensorFlow, scikit-learn
-Data: Python, Pandas, SQL, PostgreSQL, Neo4j, BigQuery
-Deployment: Streamlit, Docker, GitHub Actions, Streamlit Cloud
-Languages: Python, SQL, JavaScript
-
 <h2>🚀 What I've Built</h2>
 
 | AI Content RepurposerPaste any content | get platform-native LinkedIn posts, Twitter/X threads, Instagram captions, blog posts, and email newsletters in one click. Multi-provider AI pipeline.Python, Streamlit, OpenAI/Claude/Ollama API, Prompt EngineeringLive App | [Live App](https://ai-content-repurposer-mvp-9ggjxwjdqjjqcnunuyfgdt.streamlit.app/) |
@@ -21,32 +15,39 @@ Languages: Python, SQL, JavaScript
 | **Business Analytics Agent** | AI-powered analytics platform — connect any database, ask questions in natural language, get verified answers with hallucination detection | Python, Streamlit, PostgreSQL, Neo4j, LangChain, RAG, 7 LLM providers | [Repo](#) |
 | **Computer Vision Agent** | Agentic perception stack — YOLOv5/v8 detector → tracker → planner. +12% mAP improvement, deployed on iOS | YOLOv5, YOLOv8, TensorFlow Lite | [Repo](#) |
 
-<h2>🛠️ Tech Stack</h2>
-ML/AI: PyTorch, TensorFlow, scikit-learn, XGBoost, CNNs, RNNs/LSTMs, Hugging Face Transformers
-NLP & Agents: RAG, LangChain, LlamaIndex, prompt engineering, agent orchestration, BERT, GPT/Claude APIs
-Data Engineering: PySpark, PostgreSQL, BigQuery, Elasticsearch, MongoDB, Neo4j
-Cloud & MLOps: AWS, GCP, Docker, Kubernetes, FastAPI
-BI & Viz: Tableau, Celonis, KNIME
+## 🛠️ Tech I work with
 
-<h2>📊 Data Visualization</h2>
+**ML / AI:** PyTorch, TensorFlow, scikit-learn, XGBoost, CNNs, RNNs/LSTMs, YOLOv5/v8, Hugging Face Transformers
 
-Chicago Taxi Covid — COVID impact on taxi ridership
-Super Store Challenge — Executive dashboard
-Space Missions — Women in Space
-Airbnb NY Crime Complaints
-Flights Delay Study
+**NLP & Agents:** OpenAI API, Anthropic Claude, LangChain, LlamaIndex, RAG, BERT, Prompt Engineering, Agent Orchestration
+
+**Data Engineering:** PySpark, PostgreSQL, BigQuery, MongoDB, Neo4j, Elasticsearch
+
+**Cloud & MLOps:** AWS, GCP, Docker, Kubernetes, FastAPI, GitHub Actions
+
+**BI & Visualization:** Tableau, Celonis, KNIME, Streamlit
+
+**Languages:** Python, SQL, JavaScript
+
 
 
 <h2>📁 Other Projects</h2>
 
-Predictive Modeling — Churn Prediction — XGBoost, Lasso, Ridge with F1 > 0.85
-Customer Segmentation — K-Means clustering on credit card behavioral data
-Chicago Crime Geospatial Analysis — Python + SQL pattern detection
-Marketing Campaign Analysis — Unsupervised learning
-PCA & t-SNE Dimensionality Reduction
-MongoDB Image Processing — Binary data storage and retrieval
-EDA — Exploratory analysis
+| 📉 **Customer Churn Prediction** | Built an ensemble pipeline (XGBoost, Lasso, Ridge) to predict which customers will leave before they do — achieved F1 > 0.85 on imbalanced data | XGBoost, scikit-learn, Python |
+| 👥 **Credit Card Customer Segmentation** | Applied K-Means clustering to behavioral spending data — identified 5 distinct customer personas that drove targeted retention strategies | K-Means, PCA, Python, Pandas |
+| 🗺️ **Chicago Crime Geospatial Analysis** | Combined 7M+ crime records with geospatial and temporal features to detect hotspot patterns — built SQL pipelines for automated pattern detection | Python, SQL, GeoPandas, Folium |
+| 📣 **Marketing Campaign Analysis** | Used unsupervised learning to uncover hidden audience segments from campaign data — revealed which customer clusters convert and which burn budget | K-Means, Hierarchical Clustering, Python |
+| 🔬 **PCA & t-SNE Dimensionality Reduction** | Compared linear vs. non-linear dimensionality reduction on high-dimensional datasets — visualized cluster separability that PCA alone misses | PCA, t-SNE, scikit-learn, Matplotlib |
+| 🖼️ **MongoDB Image Processing Pipeline** | Engineered a binary data storage and retrieval system for image assets using MongoDB GridFS — optimized for batch read/write throughput | MongoDB, GridFS, Python |
+| 📊 **Exploratory Data Analysis Toolkit** | End-to-end EDA workflows: missing data profiling, distribution analysis, correlation mapping, and automated outlier detection across multiple datasets | Python, Pandas, Seaborn, Matplotlib |
 
+<h2>📊 Data Visualization</h2>
+
+| 🚕 **Chicago Taxi & COVID** | Mapped ridership collapse and recovery patterns across 77 Chicago neighborhoods — identified which zones recovered fastest and why | Tableau, Python |
+| 🏬 **Super Store Executive Dashboard** | Built a C-suite dashboard tracking $2.3M in sales across 4 regions — surfaced unprofitable segments hiding behind top-line growth | Tableau |
+| 🚀 **Women in Space Missions** | Visualized 60+ years of space mission data to expose the gender gap in space exploration — from 0% to present | Tableau, Python |
+| 🏠 **Airbnb × NYC Crime** | Overlaid 50K+ Airbnb listings against NYPD crime complaint data to reveal which "great deal" neighborhoods carry hidden safety risk | Tableau, Python |
+| ✈️ **U.S. Flight Delay Study** | Analyzed 5M+ domestic flights to identify the airlines, routes, and times of day most likely to delay — built a predictive risk score | Tableau, Python |
 
 <h2>📜 Education & Certifications</h2>
 
@@ -60,7 +61,6 @@ ITIL v4 — Intellectual Point, 2020
 <h2>📫 Connect with me</h2>
 
 - [LinkedIn](https://linkedin.com/in/jacqueline-persha)
-
 
 
 
