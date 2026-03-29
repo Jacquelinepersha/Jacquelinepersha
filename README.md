@@ -58,12 +58,10 @@ ITIL v4 — Intellectual Point, 2020
 -Deep Learning & AI
 - [Deep Learning. An MIT Press book](https://www.deeplearningbook.org/)
 - [Deep Learning with Python, Second Edition. Francois Chollet](https://learning.oreilly.com/library/view/deep-learning-with/9781617296864/Text/title.htm)
-- [Example](https://colab.research.google.com/drive/1dpie9TR3JJuWkAlmewROzpKu9VjUImLs?usp=sharing)
 
 -Natural Language 
 - [Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781617295447/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-- [Deep Learning for NPL]([deep_learning_for_nlp.pdf](https://github.com/user-attachments/files/19719584/deep_learning_for_nlp.pdf))
 
 -Practical Machine LLearning
 - [Applications of Topic Models. Boyd-Graber, J., Hu, Y., and Mimno, D. 2017.](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
@@ -72,8 +70,7 @@ ITIL v4 — Intellectual Point, 2020
 - [Introduction to Machine Learning with Python. Müller, A.C. & Guido, S.](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view?pli=1)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Geron](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/preface01.html#idm45022196339192)
   
-- [Designing Data-Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-<img width="468" height="613" alt="image" src="https://github.com/user-attachments/assets/2975daf7-3b88-4113-b2e9-abbc1107a5a1" />
+
 
 
 
