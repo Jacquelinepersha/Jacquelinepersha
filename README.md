@@ -66,7 +66,6 @@ ITIL v4 — Intellectual Point, 2020
 -Practical Machine LLearning
 - [Applications of Topic Models. Boyd-Graber, J., Hu, Y., and Mimno, D. 2017.](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 - [ESLII. Elements of Statistical Learning Data Mining, Inference, and Prediction. Hastie](http://www.stat.ucla.edu/~ywu/research/documents/ESLII.pdf)
-- [ISLP. Introduction of Statistical Learning. Hastie](file:///Users/jacquieap/Downloads/ISLP_website.pdf)
 - [Introduction to Machine Learning with Python. Müller, A.C. & Guido, S.](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view?pli=1)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Geron](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/preface01.html#idm45022196339192)
   
