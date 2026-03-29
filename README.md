@@ -3,8 +3,19 @@ Data Scientist & AI Engineer — I build AI systems that solve real problems.
 
 Industrial Engineer — Data Science (Northwestern, MIT) — Building production AI.
 
+🧠 What I'm building
+I ship AI tools that people actually use — not just notebooks. Every project above has either a live demo, a deployed app, or production code you can run today.
+Current focus: LLM-powered applications, prompt-engineered pipelines, and multi-provider AI architectures.
+
+🛠️ Tech I work with
+AI / ML: OpenAI API, Anthropic Claude, LangChain, RAG, YOLOv5/v8, TensorFlow, scikit-learn
+Data: Python, Pandas, SQL, PostgreSQL, Neo4j, BigQuery
+Deployment: Streamlit, Docker, GitHub Actions, Streamlit Cloud
+Languages: Python, SQL, JavaScript
+
 <h2>🚀 What I've Built</h2>
 
+| AI Content RepurposerPaste any content | get platform-native LinkedIn posts, Twitter/X threads, Instagram captions, blog posts, and email newsletters in one click. Multi-provider AI pipeline.Python, Streamlit, OpenAI/Claude/Ollama API, Prompt EngineeringLive App | [Live App](https://ai-content-repurposer-mvp-9ggjxwjdqjjqcnunuyfgdt.streamlit.app/) |
 | **AI Job Interview Booster** | Scores resume-to-job match, optimizes resumes, generates cover letters, interview prep — 5 AI tools in one app | Python, Streamlit, OpenAI/Claude API | [Live App](https://jacquelinepersha-ai-jobinterview-booster-app-lxq8z3.streamlit.app/) |
 | **Agentic OS Blueprint** | 7-layer framework for building AI systems that learn, remember, and chain workflows | Claude Code, Prompt Engineering | [PDF Guide](#) |
 | **Business Analytics Agent** | AI-powered analytics platform — connect any database, ask questions in natural language, get verified answers with hallucination detection | Python, Streamlit, PostgreSQL, Neo4j, LangChain, RAG, 7 LLM providers | [Repo](#) |
