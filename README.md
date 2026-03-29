@@ -1,5 +1,6 @@
 <h1>Hi, I'm Jacquie! 👋</h1>
 Data Scientist & AI Engineer — I build AI systems that solve real problems.
+
 Industrial Engineer — Data Science (Northwestern, MIT) — Building production AI.
 
 <h2>🚀 What I've Built</h2>
@@ -16,14 +17,13 @@ Data Engineering: PySpark, PostgreSQL, BigQuery, Elasticsearch, MongoDB, Neo4j
 Cloud & MLOps: AWS, GCP, Docker, Kubernetes, FastAPI
 BI & Viz: Tableau, Celonis, KNIME
 
-<h2>📊 Data Visualization (Tableau)</h2>
+<h2>📊 Data Visualization</h2>
 
 Chicago Taxi Covid — COVID impact on taxi ridership
 Super Store Challenge — Executive dashboard
 Space Missions — Women in Space
 Airbnb NY Crime Complaints
 Flights Delay Study
-Data Breached 2004-2020
 
 
 <h2>📁 Other Projects</h2>
@@ -34,7 +34,7 @@ Chicago Crime Geospatial Analysis — Python + SQL pattern detection
 Marketing Campaign Analysis — Unsupervised learning
 PCA & t-SNE Dimensionality Reduction
 MongoDB Image Processing — Binary data storage and retrieval
-EDA — House Prices — Exploratory analysis
+EDA — Exploratory analysis
 
 
 <h2>📜 Education & Certifications</h2>
