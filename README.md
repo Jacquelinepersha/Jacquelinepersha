@@ -94,10 +94,14 @@ I ship AI tools that people actually use — not just notebooks. Every project b
 
 ---
 
-## 📫 Connect
+🔗 Find me
+🌐 NextGenIQ: nextgeniq.io
+🐦 X / Twitter: @jacquiepersha
+💼 LinkedIn: linkedin.com/in/jacqueline-persha
+📧 Email: jacquiepersha@gmail.com
+<sub>📍 Building from Washington, DC · Bilingual EN/ES 🇨🇷 · Open to interesting collaborations</sub>
 
-- 🌐 [nextgeniq.io](https://nextgeniq.io)
-- 💼 [LinkedIn — Jacqueline Persha](https://linkedin.com/in/jacqueline-persha)
+
 
 ---
 
